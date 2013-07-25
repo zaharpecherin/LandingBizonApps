@@ -1,5 +1,5 @@
 class UserMailer < ActionMailer::Base
-  default from: "feedback@bizonapps.com"
+  default from: "feedback@bizon-apps.com"
 
   def feedback_email(feedback)
     @feedback = feedback
