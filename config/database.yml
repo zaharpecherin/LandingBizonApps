@@ -35,8 +35,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: LandingBizonApps_production
+  database: landingbizonapps
   pool: 5
   username: root
-  password:
+  password: "123456"
   socket: /var/run/mysqld/mysqld.sock
