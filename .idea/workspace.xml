@@ -12,6 +12,7 @@
     <file path="/feedback_email.html.erb" changelist="65e62974-b1b2-467c-b030-f0acf7e113a4" time="1374659912557" ignored="false" />
     <file path="/main.css.scss" changelist="65e62974-b1b2-467c-b030-f0acf7e113a4" time="1374660560762" ignored="false" />
     <file path="/database.yml" changelist="65e62974-b1b2-467c-b030-f0acf7e113a4" time="1374739014354" ignored="false" />
+    <file path="/production.rb" changelist="65e62974-b1b2-467c-b030-f0acf7e113a4" time="1374747515239" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +44,16 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="172" selection-start="3863" selection-end="3863" vertical-scroll-proportion="-4.2083335">
+            <state line="93" column="119" selection-start="3862" selection-end="3862" vertical-scroll-proportion="-4.2083335">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="167" selection-start="725" selection-end="725" vertical-scroll-proportion="0.45634267">
+            <state line="18" column="30" selection-start="650" selection-end="650" vertical-scroll-proportion="0.44481054">
               <folding />
             </state>
           </provider>
@@ -87,6 +88,7 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
         <option value="$PROJECT_DIR$/app/views/main/index.html.erb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -158,6 +160,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LandingBizonApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LandingBizonApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -539,16 +559,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/images/Github.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/zjqBootstrapValidation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="41" selection-start="1249" selection-end="1249" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -615,16 +625,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="172" selection-start="3863" selection-end="3863" vertical-scroll-proportion="-4.2083335">
+        <state line="27" column="166" selection-start="759" selection-end="759" vertical-scroll-proportion="0.48105437">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="167" selection-start="725" selection-end="725" vertical-scroll-proportion="0.45634267">
+        <state line="4" column="42" selection-start="159" selection-end="159" vertical-scroll-proportion="0.098846786">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="119" selection-start="3862" selection-end="3862" vertical-scroll-proportion="-4.2083335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="650" selection-end="650" vertical-scroll-proportion="0.44481054">
           <folding />
         </state>
       </provider>
